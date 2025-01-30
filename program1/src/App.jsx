@@ -1,5 +1,5 @@
 import Program from "./program";
-
+import "./App.css";
 function App(){
   return(
     <>
